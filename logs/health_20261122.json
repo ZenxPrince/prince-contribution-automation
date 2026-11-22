@@ -1,0 +1,27 @@
+{
+  "required_files": {
+    "status": "warn",
+    "missing": [
+      "README.md"
+    ]
+  },
+  "git_integrity": {
+    "status": "warn",
+    "output": "error: unknown option `quiet'\nusage: git fsck [--tags] [--root] [--unreachable] [--cache] [--no-reflogs]\n                [--[no-]full] [--strict] [--verbose] [--lost-found]\n                [--[no-]dangling] [--[no-]progress] [--connectivity-only]\n                [--[no-]name-objects] [--[no-]references] [<object>...]\n\n    -v, --[no-]verbose    be verbose\n    --[no-]unreachable    show unreachable objects\n    --[no-]dangling       show dangling objects\n    --[no-]tags           report tags\n    --"
+  },
+  "commit_cadence": {
+    "commits_last_7d": 18,
+    "recent": [
+      "c3d9383a66af8f6e31c86693b78b3f21e5651957 2026-11-21 22:29:37 +0000 chore: automated engineering maintenance",
+      "98cbab8f5a0327a3541515a5652021fa37108ec3 2026-11-21 13:46:57 +0000 chore: automated engineering maintenance",
+      "39cc3766fd0aca16c7cf78c3aaa6717f54a2a361 2026-11-21 04:27:20 +0000 chore: automated engineering maintenance",
+      "563426758d5d2521539843013f660938893172ef 2026-11-20 23:26:18 +0000 chore: automated engineering maintenance",
+      "d3af41c482dd760b8daa9afcaad02b134510c135 2026-11-20 14:27:34 +0000 chore: automated engineering maintenance"
+    ]
+  },
+  "large_files": [],
+  "recent_failures": {
+    "status": "ok",
+    "recent_failures": []
+  }
+}
